@@ -43,3 +43,6 @@ button {
 	background-color: gray solid;
 	padding: 2px;
 }
+p {
+	font-size: 16px;
+}
